@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import Tour from "./Tour";
 const Tours = ({ tours }) => {
   return (
